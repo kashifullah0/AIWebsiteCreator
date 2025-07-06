@@ -1,0 +1,5 @@
+langchain-google-genai
+langchain
+python-dotenv
+openai-agents
+streamlit
